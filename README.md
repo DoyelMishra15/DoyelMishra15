@@ -12,7 +12,7 @@
 ## 👀 About Me
 
 - 💻 I’m passionate about **coding**, **reading**, and 🎶 **music**
-- 🌱 Currently learning **AI/ML**, **Web Development**, and modern tools
+- 🌱 Currently learning **Machine Learning**, **AI**, and **Web Development**
 - 🤝 Looking to **collaborate** on anything creative and code-centric
 
 ---
@@ -47,19 +47,17 @@ She / Her 👩‍💻
 
 ---
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=6&margin-w=10&no-frame=true"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&label=Profile+Views&color=F75990&style=flat-square" alt="profile-views" />
+  <br />
+  <b>📈 1,025 contributions in the last year</b>
 </p>
 
 ---
