@@ -1,10 +1,11 @@
-<!-- README Header Banner -->
+<!-- Header Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75990&height=200&section=header&text=Hey%20there,%20I'm%20Doyel%20Mishra!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75990&center=true&vCenter=true&multiline=true&width=500&lines=👩‍💻+Passionate+Coder;🚀+AI+%26+Web+Dev+Explorer;🎧+Music+Lover;📚+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F75990&center=true&vCenter=true&width=500&lines=👩‍💻+Passionate+Coder;🌱+Currently+Learning+Machine+Learning;🚀+Exploring+AI+%26+Web+Dev;🎧+Music+Lover;📚+Always+Curious+and+Learning" alt="Typing SVG">
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 ## 📫 Reach Out to Me
 
-- 📧 Email: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)
+📧 Email: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)
 
 ---
 
@@ -72,7 +73,7 @@ She / Her 👩‍💻
 
 ---
 
-<!-- Footer -->
+<!-- Footer Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75990&height=100&section=footer"/>
 </p>
