@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&bg_color=30,e6e6fa,ffb6c1&title_color=ff69b4&text_color=000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DoyelMishra15&theme=radical&background=30,e6e6fa,ffb6c1" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=false&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&background=30,e6e6fa,ffb6c1" width="48%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff69b4" alt="profile views" />
   <br/>
-  📈 1,025 contributions in the last year
+  📈 1,030 contributions in the last year
 </p>
 
 ---
