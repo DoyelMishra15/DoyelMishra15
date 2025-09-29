@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff69b4" alt="profile views" />
   <br/>
-  📈 1,079 contributions in the last year
+  📈 1,111 contributions in the last year
 </p>
 
 ---
