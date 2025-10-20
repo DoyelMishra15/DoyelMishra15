@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFB6C1&center=true&width=435&lines=AI+Explorer+%F0%9F%94%96;Web+Dev+Learner+%F0%9F%93%90;Music+Lover+%F0%9F%8E%B6;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <!-- LinkedIn Follow Button as a badge -->
+  <a href="https://www.linkedin.com/in/doyelmishra15" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn">
+  </a>
+</p>
+
 ---
 
 ### ✨ Highlights
@@ -45,8 +52,10 @@
 
 ### 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/doyelmishra15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:doyel.mishra.5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/doyelmishra15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:doyel.mishra.5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
