@@ -19,13 +19,41 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript,flask,fastapi,react,mysql,sqlite,git,github,linux,docker,gcp,kubernetes,vscode" />
+</p>
+
+---
+
+### ⚙️ Currently Working On
+- 🧠 **Machine Learning models** + ML Math  
+- 🌐 Full-stack projects: **CampusCanteen Web Version**  
+- ☁️ **Cloud & DevOps** fundamentals with Docker + Kubernetes  
+- 🚀 **AI Agent** for One Trillion Agents Hackathon  
+- 📚 Studying **DBMS, B+ Trees, SQL, ER Models**, etc.  
+- 🧩 Strengthening **DSA** (Arrays → DP)
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| CampusCanteen | College cafeteria ordering app with live tracking | Java, Swing, MySQL | [GitHub](https://github.com/DoyelMishra15/CampusCanteen) |
+| AI Feedback Bot | Feedback collection bot for hackathon | Python, FastAPI | [GitHub](https://github.com/DoyelMishra15/AI-Feedback-Bot) |
+| Event Management System | Java-based EMS with MySQL backend | Java, MySQL | [GitHub](https://github.com/DoyelMishra15/Event-Management-System) |
+| Social Media AI Agent | Women-safe social media platform prototype | Python, Flask, JS | [GitHub](https://github.com/DoyelMishra15/Social-AI-Agent) |
+
+---
+
+### 🏆 Achievements & Hackathons
+<p align="center">
+  <img src="https://img.shields.io/badge/One+Trillion+Agents-Hackathon-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI+Projects-Active-green?style=for-the-badge" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&bg_color=30,e6e6fa,ffb6c1&title_color=ff69b4&text_color=000000" width="48%" />
   <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=false&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&background=30,e6e6fa,ffb6c1" width="48%" />
@@ -38,7 +66,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff69b4" alt="profile views" />
   <br/>
-  📈 1,111 contributions in the last year
+  📈 Over <b>1,111+</b> contributions this year!
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=5" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DoyelMishra15/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -46,10 +82,12 @@
 ### 🌐 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/doyelmishra15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://instagram.com/doyel_1517" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:doyel.mishra.5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
