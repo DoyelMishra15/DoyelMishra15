@@ -24,26 +24,6 @@
 
 ---
 
-### ⚙️ Currently Working On
-- 🧠 **Machine Learning models** + ML Math  
-- 🌐 Full-stack projects: **CampusCanteen Web Version**  
-- ☁️ **Cloud & DevOps** fundamentals with Docker + Kubernetes  
-- 🚀 **AI Agent** for One Trillion Agents Hackathon  
-- 📚 Studying **DBMS, B+ Trees, SQL, ER Models**, etc.  
-- 🧩 Strengthening **DSA** (Arrays → DP)
-
----
-
-### 🚀 Featured Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| CampusCanteen | College cafeteria ordering app with live tracking | Java, Swing, MySQL | [GitHub](https://github.com/DoyelMishra15/CampusCanteen) |
-| AI Feedback Bot | Feedback collection bot for hackathon | Python, FastAPI | [GitHub](https://github.com/DoyelMishra15/AI-Feedback-Bot) |
-| Event Management System | Java-based EMS with MySQL backend | Java, MySQL | [GitHub](https://github.com/DoyelMishra15/Event-Management-System) |
-| Social Media AI Agent | Women-safe social media platform prototype | Python, Flask, JS | [GitHub](https://github.com/DoyelMishra15/Social-AI-Agent) |
-
----
-
 ### 🏆 Achievements & Hackathons
 <p align="center">
   <img src="https://img.shields.io/badge/One+Trillion+Agents-Hackathon-blue?style=for-the-badge" />
