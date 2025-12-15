@@ -24,19 +24,14 @@
 
 ---
 
-### 🏆 Achievements & Hackathons 🏹
+### 🏆 Achievements & Hackathons
 <p align="center">
-  <img src="https://img.shields.io/badge/One+Trillion+Agents-Hackathon-blue?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=00008B" />
-  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/One_Trillion_Agents-Hackathon-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2025_Finalist-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Projects-Active-green?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Smart+India+Hackathon-2025-Finalist-orange?style=for-the-badge&logo=siemens&logoColor=white&labelColor=ff4500&color=ff6347&logoWidth=20" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI+Projects-Active-green?style=for-the-badge&logo=ai&logoColor=white&labelColor=006400" />
-</p>
 
 ---
 
