@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/One+Trillion+Agents-Hackathon-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart+India+Hackathon-2025-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI+Projects-Active-green?style=for-the-badge" />
 </p>
 
