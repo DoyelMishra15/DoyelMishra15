@@ -1,30 +1,41 @@
 <h1 align="center">👾 Hi, I'm Doyel Mishra 👾</h1>
-<h3 align="center">AI/ML | Web Dev | Music | Curious Soul</h3>
+<h3 align="center">AI/ML | Web Development | Music Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&width=600&lines=AI+Explorer+%F0%9F%94%96;Web+Dev+Learner+%F0%9F%93%90;Music+Lover+%F0%9F%8E%B6;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&width=650&lines=AI+Explorer+%F0%9F%94%96;Web+Dev+Learner+%F0%9F%93%90;Music+Lover+%F0%9F%8E%B6;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### ✨ Highlights
-- 🎓 Currently leveling up in **Machine Learning** & **Web Development**
-- 🎵 Coding + Music = Maximum XP gain
-- 💡 Open to quests on **AI projects**, **full-stack adventures**, and more
-- 🌱 Continuously upgrading skills & stats
-- 💌 Reach me at: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)
+## ✨ About Me
+- 🎓 **B.Tech CSE Student** | Passionate about **AI/ML, Web Development & Cloud Computing**  
+- 🎵 Coding + Music = Maximum XP gain  
+- 💡 Open to collaborating on **AI projects, Full-stack applications, Hackathons**  
+- 🌱 Continuously upgrading skills & learning new technologies  
+- 💌 Reach me at: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)  
 - 😄 Pronouns: **She/Her**
 
 ---
 
-### 💻 Tech Stack ⚡
+## 💻 Tech Stack
+I specialize in **AI/ML, Web Development, Databases, and Cloud/DevOps**.  
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, C, Java, JavaScript, HTML, CSS |
+| **Frontend** | React |
+| **Backend / API** | Flask, FastAPI |
+| **Databases** | MySQL, SQLite |
+| **DevOps & Cloud** | Git, GitHub, Docker, Kubernetes, GCP, Linux |
+| **Tools / IDEs** | VSCode, Jupyter Notebook |
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript,flask,fastapi,react,mysql,sqlite,git,github,linux,docker,gcp,kubernetes,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,flask,fastapi,mysql,sqlite,git,github,linux,docker,gcp,kubernetes,vscode" />
 </p>
 
 ---
 
-### 🏆 Achievements & Hackathons
+## 🏆 Achievements & Hackathons
 <p align="center">
   <img src="https://img.shields.io/badge/One_Trillion_Agents-Hackathon-blue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge&logoColor=white" />
@@ -32,10 +43,9 @@
   <img src="https://img.shields.io/badge/AI_Projects-Active-green?style=for-the-badge&logoColor=white" />
 </p>
 
-
 ---
 
-### 📊 GitHub Stats 🎮
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&bg_color=30,000000,ff1493&title_color=00ffff&text_color=ffffff" width="48%" />
   <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=false&ring=00ffff&fire=ff69b4&currStreakNum=00ffff&background=30,000000,ff1493" width="48%" />
@@ -46,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff1493" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff1493" alt="Profile Views" />
   <br/>
   📈 Over <b>1,111+</b> XP points (contributions) this year!
 </p>
@@ -61,7 +71,7 @@
 
 ---
 
-### 🌐 Connect with me 🚀
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/doyelmishra15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -72,4 +82,4 @@
   <a href="mailto:doyel.mishra.5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>                                                      
+</p>
