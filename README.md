@@ -8,20 +8,19 @@
 ---
 
 ## ✨ About Me
-- 🎓 **B.Tech CSE Student** | Passionate about **AI/ML, Web Development & Cloud Computing**  
-- 🎵 Coding + Music = Maximum XP gain  
-- 💡 Open to collaborating on **AI projects, Full-stack applications, Hackathons**  
-- 🌱 Continuously upgrading skills & learning new technologies  
-- 💌 Reach me at: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)  
+- 🎓 **B.Tech CSE Student** | Passionate about **AI/ML, Web Development & Cloud Computing**
+- 🎵 Coding + Music = Maximum XP gain
+- 💡 Open to collaborating on **AI projects, Full-stack applications, Hackathons**
+- 🌱 Continuously upgrading skills & learning new technologies
+- 💌 Reach me at: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)
 - 😄 Pronouns: **She/Her**
 
 ---
 
 ## 💻 Tech Stack
-I specialize in **AI/ML, Web Development, Databases, and Cloud/DevOps**.  
 
 | Category | Technologies |
-|----------|--------------|
+|--------|--------------|
 | **Languages** | Python, C, Java, JavaScript, HTML, CSS |
 | **Frontend** | React |
 | **Backend / API** | Flask, FastAPI |
@@ -37,46 +36,56 @@ I specialize in **AI/ML, Web Development, Databases, and Cloud/DevOps**.
 
 ## 🏆 Achievements & Hackathons
 <p align="center">
-  <img src="https://img.shields.io/badge/One_Trillion_Agents-Hackathon-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2025_Finalist-orange?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Projects-Active-green?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/One_Trillion_Agents-Hackathon-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2025_Finalist-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Projects-Active-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&bg_color=30,000000,ff1493&title_color=00ffff&text_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=false&ring=00ffff&fire=ff69b4&currStreakNum=00ffff&background=30,000000,ff1493" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical&bg_color=30,000000,ff1493&title_color=00ffff&text_color=ffffff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&color=ff1493" alt="Profile Views" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
+
+---
+
+## 👀 Profile Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DoyelMishra15&label=Profile%20Views&color=ff1493&style=for-the-badge" />
+</p>
+
+<p align="center">
   📈 Over <b>1,111+</b> XP points (contributions) this year!
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=5&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=5" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/DoyelMishra15/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/DoyelMishra15/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/doyelmishra15" target="_blank">
+  <a href="https://linkedin.com/in/doyelmishra15">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://instagram.com/doyel_1517" target="_blank">
+  </a>
+  <a href="https://instagram.com/doyel_1517">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:doyel.mishra.5@gmail.com">
