@@ -1,13 +1,14 @@
 <h1 align="center">👾 Doyel Mishra</h1>
-<h3 align="center">
-AI / ML Engineer · Software Developer · Open-Source Contributor
-</h3>
+
 <p align="center">
-SIH 2025 Finalist · B.Tech Computer Science Engineering
+  <b>AI / ML Engineer · Software Developer · Open-Source Contributor</b><br/>
+  SIH 2025 Finalist · B.Tech Computer Science Engineering
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=600&color=FF69B4&center=true&width=820&lines=Designing+intelligent+systems+with+impact;Machine+Learning+%7C+Backend+Engineering;Hackathons+%7C+Open+Source+Development;Learning+deeply.+Building+thoughtfully." />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=600&color=FF69B4&center=true&vCenter=true&width=820&lines=Designing+intelligent+systems+with+impact;Machine+Learning+%7C+Backend+Engineering;Hackathons+%7C+Open+Source+Development;Learning+deeply.+Building+thoughtfully." 
+  />
 </p>
 
 ---
@@ -15,13 +16,13 @@ SIH 2025 Finalist · B.Tech Computer Science Engineering
 ## 🌸 About Me
 
 I’m a **Computer Science Engineering student** who enjoys building  
-**AI-driven and software systems** that solve meaningful, real-world problems.
+**AI-driven and software systems** that solve real-world problems.
 
 - 🧠 Focus areas: **Machine Learning, Backend Engineering, Applied AI**
 - 🏆 **Smart India Hackathon 2025 Finalist**
 - 🌍 Active in **Open Source (GSSoC, Hacktoberfest)**
 - 💡 Interested in impactful **AI systems & scalable software**
-- 🎧 Music keeps me focused while coding
+- 🎧 Music helps me stay focused while coding
 - 📫 **Email:** doyel.mishra.5@gmail.com  
 - 😄 **Pronouns:** She / Her
 
@@ -31,41 +32,50 @@ I’m a **Computer Science Engineering student** who enjoys building
 
 **🚨 Forest Fire Early Detection**  
 AI-based early warning system using multispectral satellite imagery  
-*Python · ML/DL · Remote Sensing*
+<sub>Python · Machine Learning · Remote Sensing</sub>
+
+<br/>
 
 **📊 Sales Forecasting Dashboard**  
-Time-series forecasting with analytical dashboards  
-*Python · Pandas · Forecasting · Power BI*
+Time-series forecasting system for predicting future sales trends  
+<sub>Python · Pandas · Seaborn · Matplotlib · Time-Series Forecasting</sub>
+
+<br/>
 
 **🎟️ Event Management System**  
-Java desktop application with database integration  
-*Java · MySQL · Swing*
+Java-based desktop application with relational database integration  
+<sub>Java · MySQL · Oracle · Swing</sub>
+
+<br/>
 
 **🧠 Employee Sentiment Analysis**  
 NLP-based sentiment classification system  
-*Python · NLP · Machine Learning*
+<sub>Python · NLP · Machine Learning</sub>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python · Java · C · SQL  
+<p align="center"><b>Languages</b></p>
+<p align="center">Python · Java · C · SQL</p>
 
-**Machine Learning & Data**  
-Pandas · NumPy · Scikit-learn  
+<p align="center"><b>Machine Learning & Data</b></p>
+<p align="center">Pandas · NumPy · Scikit-learn</p>
 
-**Backend & APIs**  
-Flask · FastAPI  
+<p align="center"><b>Data Visualization</b></p>
+<p align="center">Matplotlib · Seaborn</p>
 
-**Databases**  
-MySQL · SQLite  
+<p align="center"><b>Backend & APIs</b></p>
+<p align="center">Flask · FastAPI</p>
 
-**DevOps & Cloud**  
-Git · Docker · GCP · Linux  
+<p align="center"><b>Databases</b></p>
+<p align="center">MySQL · Oracle · SQLite</p>
+
+<p align="center"><b>DevOps & Cloud</b></p>
+<p align="center">Git · Docker · GCP · Linux</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,flask,fastapi,mysql,sqlite,git,github,docker,gcp,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,flask,fastapi,mysql,oracle,sqlite,git,github,docker,gcp,linux,vscode" />
 </p>
 
 ---
@@ -112,7 +122,7 @@ Git · Docker · GCP · Linux
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/doyel-mishra-80932128b/">
