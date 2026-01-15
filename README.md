@@ -30,53 +30,44 @@ I’m a **Computer Science Engineering student** who enjoys building
 
 ## 🔥 Selected Projects
 
-**🚨 Forest Fire Early Detection**  
-AI-based early warning system using multispectral satellite imagery  
-<sub>Python · Machine Learning · Remote Sensing</sub>
+**Forest Fire Early Detection**  
+AI-based early warning system using multispectral satellite imagery for fire risk identification.  
+*Python · Machine Learning · Remote Sensing*
 
-<br/>
+**Sales Forecasting Dashboard**  
+Time-series forecasting model to analyze historical sales data and predict future trends.  
+*Python · Pandas · Matplotlib · Seaborn*
 
-**📊 Sales Forecasting Dashboard**  
-Time-series forecasting system for predicting future sales trends  
-<sub>Python · Pandas · Seaborn · Matplotlib · Time-Series Forecasting</sub>
+**Event Management System**  
+Java-based desktop application for managing events with relational database support.  
+*Java · MySQL · Oracle · Swing*
 
-<br/>
-
-**🎟️ Event Management System**  
-Java-based desktop application with relational database integration  
-<sub>Java · MySQL · Oracle · Swing</sub>
-
-<br/>
-
-**🧠 Employee Sentiment Analysis**  
-NLP-based sentiment classification system  
-<sub>Python · NLP · Machine Learning</sub>
+**Employee Sentiment Analysis**  
+Natural Language Processing system to classify employee feedback sentiment.  
+*Python · NLP · Machine Learning*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
-<p align="center">Python · Java · C · SQL</p>
+**Programming Languages**  
+Python · Java · C · SQL  
 
-<p align="center"><b>Machine Learning & Data</b></p>
-<p align="center">Pandas · NumPy · Scikit-learn</p>
+**Machine Learning & Data**  
+Pandas · NumPy · Scikit-learn  
 
-<p align="center"><b>Data Visualization</b></p>
-<p align="center">Matplotlib · Seaborn</p>
+**Data Visualization**  
+Matplotlib · Seaborn  
 
-<p align="center"><b>Backend & APIs</b></p>
-<p align="center">Flask · FastAPI</p>
+**Backend & APIs**  
+Flask · FastAPI  
 
-<p align="center"><b>Databases</b></p>
-<p align="center">MySQL · Oracle · SQLite</p>
+**Databases**  
+MySQL · Oracle · SQLite  
 
-<p align="center"><b>DevOps & Cloud</b></p>
-<p align="center">Git · Docker · GCP · Linux</p>
+**DevOps & Tools**  
+Git · Docker · Linux · GCP · VS Code · Jupyter Notebook
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,flask,fastapi,mysql,oracle,sqlite,git,github,docker,gcp,linux,vscode" />
-</p>
 
 ---
 
