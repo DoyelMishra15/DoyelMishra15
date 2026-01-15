@@ -1,19 +1,45 @@
 <h1 align="center">👾 Hi, I'm Doyel Mishra 👾</h1>
-<h3 align="center">AI/ML | Web Development | Music Enthusiast | Lifelong Learner</h3>
+<h3 align="center">
+AI/ML Engineer • Software Developer • Open-Source Contributor<br/>
+SIH 2025 Finalist | B.Tech CSE
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&width=650&lines=AI+Explorer+%F0%9F%94%96;Web+Dev+Learner+%F0%9F%93%90;Music+Lover+%F0%9F%8E%B6;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=FF69B4&center=true&width=750&lines=Building+AI-powered+solutions+🚀;Machine+Learning+%7C+Backend+Development;Hackathons+%7C+Open+Source+Contributor;Turning+ideas+into+real+systems+✨" />
 </p>
 
 ---
 
 ## ✨ About Me
-- 🎓 **B.Tech CSE Student** | Passionate about **AI/ML, Web Development & Cloud Computing**
-- 🎵 Coding + Music = Maximum XP gain
-- 💡 Open to collaborating on **AI projects, Full-stack applications, Hackathons**
-- 🌱 Continuously upgrading skills & learning new technologies
-- 💌 Reach me at: [doyel.mishra.5@gmail.com](mailto:doyel.mishra.5@gmail.com)
-- 😄 Pronouns: **She/Her**
+
+🎓 **B.Tech Computer Science Engineering**  
+🚀 **AI/ML & Software Engineer** focused on real-world problem solving  
+🏆 **Smart India Hackathon 2025 Finalist**  
+🌍 Open-source contributor (**GSSoC, Hacktoberfest**)  
+💡 Interested in **AI systems, backend engineering, and applied ML**  
+🎵 Coding + Music = peak productivity  
+📬 **Email:** doyel.mishra.5@gmail.com  
+😄 **Pronouns:** She / Her  
+
+---
+
+## 🔥 Featured Projects
+
+🚨 **Forest Fire Early Detection System**  
+AI-based early detection using multispectral satellite imagery (Sentinel-2, FIRMS)  
+**Tech:** Python, ML/DL, Remote Sensing, Data Analysis  
+
+📊 **Sales Forecasting Dashboard**  
+Time-series forecasting & regression-based analytics with Power BI integration  
+**Tech:** Python, Pandas, Forecasting, Data Visualization  
+
+🎟️ **Event Management System**  
+Java-based desktop application with database integration  
+**Tech:** Java, MySQL, Swing  
+
+🧠 **Employee Sentiment Analysis**  
+Text analytics system for sentiment classification  
+**Tech:** NLP, Python, Machine Learning  
 
 ---
 
@@ -21,25 +47,26 @@
 
 | Category | Technologies |
 |--------|--------------|
-| **Languages** | Python, C, Java, JavaScript, HTML, CSS |
-| **Frontend** | React |
-| **Backend / API** | Flask, FastAPI |
+| **Languages** | Python, Java, C, SQL |
+| **ML / Data** | Pandas, NumPy, Scikit-learn |
+| **Backend / APIs** | Flask, FastAPI |
 | **Databases** | MySQL, SQLite |
-| **DevOps & Cloud** | Git, GitHub, Docker, Kubernetes, GCP, Linux |
-| **Tools / IDEs** | VSCode, Jupyter Notebook |
+| **DevOps / Cloud** | Git, Docker, GCP, Linux |
+| **Tools** | VS Code, Jupyter Notebook |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,flask,fastapi,mysql,sqlite,git,github,linux,docker,gcp,kubernetes,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,flask,fastapi,mysql,sqlite,git,github,docker,gcp,linux,vscode" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Hackathons
+
 <p align="center">
-  <img src="https://img.shields.io/badge/One_Trillion_Agents-Hackathon-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GSSoC-2025-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Smart_India_Hackathon-2025_Finalist-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Projects-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-Open_Source-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Projects-Production_Focused-green?style=for-the-badge" />
 </p>
 
 ---
@@ -47,15 +74,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -67,11 +94,11 @@
 </p>
 
 <p align="center">
-  📈 Over <b>1,111+</b> XP points (contributions) this year!
+  📈 <b>490+</b> contributions in the last year
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -81,14 +108,15 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/doyelmishra15">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/doyel-mishra-80932128b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/doyel_1517">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://portfoliodoyel.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
   </a>
   <a href="mailto:doyel.mishra.5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
