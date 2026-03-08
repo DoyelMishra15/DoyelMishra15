@@ -28,26 +28,6 @@ I’m a **Computer Science Engineering student** who enjoys building
 
 ---
 
-## 🔥 Selected Projects
-
-**Forest Fire Early Detection**  
-AI-based early warning system using multispectral satellite imagery for fire risk identification.  
-*Python · Machine Learning · Remote Sensing*
-
-**Sales Forecasting Dashboard**  
-Time-series forecasting model to analyze historical sales data and predict future trends.  
-*Python · Pandas · Matplotlib · Seaborn*
-
-**Event Management System**  
-Java-based desktop application for managing events with relational database support.  
-*Java · MySQL · Oracle · Swing*
-
-**Employee Sentiment Analysis**  
-Natural Language Processing system to classify employee feedback sentiment.  
-*Python · NLP · Machine Learning*
-
----
-
 ## 🛠️ Tech Stack
 
 **Programming Languages**  
