@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:A855F7,100:6366F1&height=200&section=header&text=Doyel%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,40:302B63,70:C9A7EB,100:E8C5F5&height=200&section=header&text=Doyel%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=FF6EC7&center=true&vCenter=true&width=900&lines=🏆+SIH+2025+Finalist+%7C+B.Tech+CSE;🤖+Building+AI+Systems+That+Actually+Matter;🌍+GSSoC+%7C+Hacktoberfest+Open+Source+Contributor;🧠+Machine+Learning+%7C+Backend+Engineering+%7C+Applied+AI;💡+Designing+Intelligent+Systems+with+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=20&duration=2500&pause=700&color=C9A7EB&center=true&vCenter=true&width=900&lines=✦+SIH+2025+Finalist+%7C+B.Tech+CSE;✦+Building+AI+Systems+That+Actually+Matter;✦+GSSoC+%7C+Hacktoberfest+Open+Source+Contributor;✦+Machine+Learning+%7C+Backend+Engineering+%7C+Applied+AI;✦+Designing+Intelligent+Systems+with+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/doyel-mishra-80932128b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=C9A7EB"/>
 </a>
 <a href="https://portfoliodoyel.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=E8C5F5"/>
 </a>
 <a href="mailto:doyel.mishra.5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C9A7EB"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=DoyelMishra15&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DoyelMishra15&label=Profile+Views&color=302B63&style=for-the-badge"/>
 
 </div>
 
@@ -26,19 +26,31 @@
 
 ## ✦ About Me
 
-```python
-class DoyelMishra:
-    pronouns    = "she / her"
-    location    = "India 🇮🇳"
-    education   = "B.Tech Computer Science Engineering"
-    focus       = ["Machine Learning", "Backend Engineering", "Applied AI"]
-    achievements = ["🏆 SIH 2025 Finalist", "🌍 GSSoC Contributor", "🎃 Hacktoberfest Contributor"]
-    currently   = "Building AI systems that solve real problems"
-    fun_fact    = "Music is my debugging fuel 🎧"
+<table>
+<tr>
+<td width="55%">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something impactful together 🚀")
-```
+### Hi, I'm Doyel 👋
+
+I'm a **Computer Science Engineering student** passionate about building **AI-driven systems** that create meaningful real-world impact.
+
+- 🏆 **SIH 2025 National Finalist** — one of India's most competitive tech stages
+- 🤖 Focused on **Machine Learning, Applied AI & Backend Engineering**
+- 🌍 Open-Source contributor via **GSSoC & Hacktoberfest**
+- 🔬 Built a **Vision Transformer + LLM system** for smart governance (SwarajDesk)
+- 📫 **doyel.mishra.5@gmail.com** · She / Her · 🇮🇳 India
+- 🎧 Music fuels my best coding sessions
+
+> *"Learning deeply. Building thoughtfully. Shipping boldly."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0F0C29&title_color=C9A7EB&text_color=E8C5F5" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,10 +136,10 @@ class DoyelMishra:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC7&icon_color=A855F7&text_color=ffffff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=A855F7&currStreakLabel=FF6EC7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0F0C29&title_color=C9A7EB&icon_color=E8C5F5&text_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=midnight-purple&hide_border=true&background=0F0C29&ring=C9A7EB&fire=E8C5F5&currStreakLabel=C9A7EB" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F0C29&title_color=C9A7EB&text_color=ffffff" />
 
 </div>
 
@@ -136,7 +148,7 @@ class DoyelMishra:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DoyelMishra15&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -156,21 +168,21 @@ class DoyelMishra:
 💡 *Open to collaborations, internships, research, and impactful projects.*
 
 <a href="https://www.linkedin.com/in/doyel-mishra-80932128b">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=C9A7EB"/>
 </a>
 &nbsp;
 <a href="https://portfoliodoyel.netlify.app/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit_Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=E8C5F5"/>
 </a>
 &nbsp;
 <a href="mailto:doyel.mishra.5@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C9A7EB"/>
 </a>
 
 <br/><br/>
 
 *"Learning deeply. Building thoughtfully. Shipping boldly."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:FF6EC7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C5F5,40:C9A7EB,70:302B63,100:0F0C29&height=120&section=footer"/>
 
 </div>
