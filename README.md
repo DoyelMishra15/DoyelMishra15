@@ -1,151 +1,200 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Doyel+Mishra+%F0%9F%9F%A2;AI+%2F+ML+Engineer+%7C+SIH+2025+Finalist;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;Open+Source+%7C+Python+%7C+FastAPI+%7C+NLP)](https://github.com/DoyelMishra15)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=100&section=header&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0d0630,60:1a0a4a,85:2d1b69,100:4c1d95&height=220&section=header&text=DOYEL%20MISHRA&fontSize=58&fontColor=e2d9f3&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20SIH%202025%20Finalist&descSize=16&descAlignY=75&descColor=a78bfa&animation=twinkling&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 </div>
 
----
-
-```bash
-┌──(doyel㉿github)-[~/profile]
-└─$ whoami
-```
-
-> **`Doyel Mishra`** — B.Tech CSE @ CVR Global University · CGPA 9.49 · she/her  
-> SIH 2025 National Finalist · ISRO Internship Selectee · AI/ML & Prompt Engineering Enthusiast  
-> Building production-grade AI tools with Python, FastAPI, and a passion for real-world impact.
-
----
-
-```bash
-└─$ skills --list
-```
-
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-
-**Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FF41)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FF41)
-
-**AI / ML Stack**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
-![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=for-the-badge&logo=spacy&logoColor=00FF41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FF41)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00FF41)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🌌+Navigating+the+cosmos+of+code...;🚀+Building+AI+systems+from+the+ground+up;🛸+ISRO+Selectee+%7C+SIH+2025+National+Finalist;🌙+Turning+data+into+intelligence,+one+model+at+a+time;⭐+B.Tech+CSE+%40+CVR+%7C+CGPA+9.49)](https://github.com/DoyelMishra15)
 
 </div>
-
----
-
-```bash
-└─$ featured_projects --pinned
-```
-
-| Project | Stack | Highlight |
-|---|---|---|
-| 🔍 [**CareerLens-AI**](https://github.com/DoyelMishra15/CareerLens-AI) | FastAPI · NLP · sentence-transformers | Resume analyzer with JD match scoring — ~2s/request, 50+ resumes/min |
-| 📊 [**Sales-Forecasting-Dashboard**](https://github.com/DoyelMishra15/Sales-Forecasting-Dashboard) | Streamlit · Prophet · Scikit-learn | R² > 0.85 · MAPE < 8% · 30–365 day configurable forecast |
-| 🏛️ [**SwarajDesk CV Project**](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_) | Vision Transformer · Vision-LLM | Automated complaint routing from images for smart governance |
-| 💬 [**Employee Sentiment Analysis**](https://github.com/DoyelMishra15/Employee_Sentiment_Analysis_Project) | Python · NLP · Jupyter | Sentiment classification pipeline for workplace analytics |
-| 📅 [**Event Management System**](https://github.com/DoyelMishra15/EventManagementSystem) | Java | Full OOP-based event lifecycle management system |
-
----
-
-```bash
-└─$ github --stats
-```
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DoyelMishra15&theme=matrix&background=0d1117&border=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=6e7681)](https://github.com/DoyelMishra15)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DoyelMishra15&style=for-the-badge&color=7c3aed&label=COSMIC+VISITORS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/DoyelMishra15?style=for-the-badge&color=7c3aed&labelColor=0d0630&label=FOLLOWERS&logo=github&logoColor=a78bfa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-4c1d95?style=for-the-badge&logo=astronaut&logoColor=a78bfa"/>
 
 </div>
 
 ---
 
-```bash
-└─$ contribution_graph --year=2025
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020010,100:0d0630&height=2&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; `about --me`
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+# ── doyel.yaml ──────────────────────────────
+
+name:        "Doyel Mishra"
+pronouns:    she/her
+location:    "Bhubaneswar, Odisha 🇮🇳"
+degree:      "B.Tech CSE · CVR Global University"
+cgpa:        9.49 / 10.0
+
+currently:
+  - "Fine-tuning LLMs & building RAG pipelines"
+  - "Deep-diving into Vision Transformers"
+  - "System Design for ML at scale"
+  - "Daily DSA grind"
+
+fun_fact: >
+  Selected for ISRO internship at
+  Satish Dhawan Space Centre ✦
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=donut&theme=tokyonight&bg_color=020010&border_color=7c3aed&title_color=a78bfa&text_color=c4b5fd&hide_border=false&langs_count=6" width="220"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌠 &nbsp; `tech_stack --full`
 
 <div align="center">
 
-[![Doyel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoyelMishra15&bg_color=0d1117&color=00FF41&line=00FF41&point=39FF14&area=true&area_color=003300&hide_border=false)](https://github.com/DoyelMishra15)
+**◈ Languages ◈**
+
+![Python](https://img.shields.io/badge/Python-020010?style=for-the-badge&logo=python&logoColor=a78bfa&labelColor=1e0a4a)
+![Java](https://img.shields.io/badge/Java-020010?style=for-the-badge&logo=openjdk&logoColor=c084fc&labelColor=1e0a4a)
+![C](https://img.shields.io/badge/C-020010?style=for-the-badge&logo=c&logoColor=818cf8&labelColor=1e0a4a)
+![JavaScript](https://img.shields.io/badge/JavaScript-020010?style=for-the-badge&logo=javascript&logoColor=e879f9&labelColor=1e0a4a)
+![SQL](https://img.shields.io/badge/SQL-020010?style=for-the-badge&logo=postgresql&logoColor=67e8f9&labelColor=1e0a4a)
+
+**◈ Frameworks & Dev Tools ◈**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-020010?style=for-the-badge&logo=fastapi&logoColor=34d399&labelColor=1e0a4a)
+![Flask](https://img.shields.io/badge/Flask-020010?style=for-the-badge&logo=flask&logoColor=a78bfa&labelColor=1e0a4a)
+![Streamlit](https://img.shields.io/badge/Streamlit-020010?style=for-the-badge&logo=streamlit&logoColor=f472b6&labelColor=1e0a4a)
+![Git](https://img.shields.io/badge/Git-020010?style=for-the-badge&logo=git&logoColor=fb923c&labelColor=1e0a4a)
+![Jupyter](https://img.shields.io/badge/Jupyter-020010?style=for-the-badge&logo=jupyter&logoColor=f59e0b&labelColor=1e0a4a)
+
+**◈ AI · ML · Data Science ◈**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-020010?style=for-the-badge&logo=scikitlearn&logoColor=f97316&labelColor=1e0a4a)
+![spaCy](https://img.shields.io/badge/spaCy-020010?style=for-the-badge&logo=spacy&logoColor=09b6d4&labelColor=1e0a4a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-020010?style=for-the-badge&logo=huggingface&logoColor=fbbf24&labelColor=1e0a4a)
+![OpenCV](https://img.shields.io/badge/OpenCV-020010?style=for-the-badge&logo=opencv&logoColor=34d399&labelColor=1e0a4a)
+![Pandas](https://img.shields.io/badge/Pandas-020010?style=for-the-badge&logo=pandas&logoColor=818cf8&labelColor=1e0a4a)
+![NumPy](https://img.shields.io/badge/NumPy-020010?style=for-the-badge&logo=numpy&logoColor=60a5fa&labelColor=1e0a4a)
+![Prophet](https://img.shields.io/badge/Prophet-020010?style=for-the-badge&logo=meta&logoColor=a78bfa&labelColor=1e0a4a)
 
 </div>
 
 ---
 
-```bash
-└─$ achievements --highlight
-```
-
-```
-✦  ISRO Internship Selectee        →  Satish Dhawan Space Centre (SDSC SHAR)
-✦  SIH 2025 National Finalist      →  AI-based civic grievance redressal system
-✦  AI/Prompt Eng. Intern           →  Mirai School of Technology · 30% accuracy improvement
-✦  Harvard CS50 Python             →  Certified
-✦  Google Cybersecurity            →  Professional Certificate · Coursera
-✦  Google Generative AI            →  Cloud Skills Boost
-✦  Data Analysis with Python       →  freeCodeCamp Certified
-```
-
----
-
-```bash
-└─$ currently_learning
-```
-
-```python
-focus = [
-    "LLM fine-tuning & RAG pipelines",
-    "Computer Vision (ViT, CLIP)",
-    "System Design for ML at scale",
-    "DSA — daily grind 🔁"
-]
-```
-
----
-
-```bash
-└─$ open_portfolio
-```
+## 🛸 &nbsp; `featured_projects --orbit`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfoliodoyel.netlify.app-00FF41?style=for-the-badge&labelColor=0d1117)](https://portfoliodoyel.netlify.app/)
+| &nbsp; | Project | Stack | Impact |
+|:---:|:---|:---|:---|
+| 🔭 | [**CareerLens-AI**](https://github.com/DoyelMishra15/CareerLens-AI) | `FastAPI` `NLP` `sentence-transformers` | JD match scoring · **~2s/req · 50+ resumes/min** |
+| 🌌 | [**Sales Forecasting Dashboard**](https://github.com/DoyelMishra15/Sales-Forecasting-Dashboard) | `Streamlit` `Prophet` `Scikit-learn` | **R² > 0.85** · MAPE < 8% · 30–365d forecast |
+| 🛸 | [**SwarajDesk CV Project**](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_) | `ViT` `Vision-LLM` `TypeScript` | Automated civic complaint routing from images |
+| 🌠 | [**Employee Sentiment Analysis**](https://github.com/DoyelMishra15/Employee_Sentiment_Analysis_Project) | `Python` `NLP` `Jupyter` | End-to-end sentiment pipeline for workplace analytics |
+| 🪐 | [**Event Management System**](https://github.com/DoyelMishra15/EventManagementSystem) | `Java` `OOP` | Full lifecycle event management with OOP architecture |
+
+</div>
+
+---
+
+## 📡 &nbsp; `github --telemetry`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=tokyonight&bg_color=020010&border_color=7c3aed&icon_color=a78bfa&title_color=c084fc&text_color=ddd6fe&hide_border=false&rank_icon=percentile&include_all_commits=true"/>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://www.linkedin.com/in/doyel-mishra-80932128b)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-DoyelMishra15-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)](https://github.com/DoyelMishra15)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-sujandoyel@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:sujandoyel@gmail.com)
+<img height="165" src="https://streak-stats.demolab.com?user=DoyelMishra15&theme=tokyonight&background=020010&border=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6d28d9&sideNums=ddd6fe&currStreakNum=e9d5ff"/>
+
+</div>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DoyelMishra15&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+<div align="center">
+
+[![Doyel's Activity](https://github-readme-activity-graph.vercel.app/graph?username=DoyelMishra15&bg_color=020010&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=2d1b69&hide_border=false&custom_title=Doyel%27s%20Commit%20Constellation)](https://github.com/DoyelMishra15)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:0d1117&height=80&section=footer" width="100%"/>
+---
+
+## 🏆 &nbsp; `achievements --stellar`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 &nbsp; Mission Log
+
+| Milestone | Detail |
+|:---|:---|
+| **✦ ISRO Selectee** | Satish Dhawan Space Centre |
+| **✦ SIH 2025 Finalist** | National Level · AI Civic System |
+| **✦ Prompt Eng. Intern** | Mirai School of Technology |
+| **✦ GSSoC Contributor** | Open Source · Active |
+| **✦ Hacktoberfest** | Open Source · Active |
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 &nbsp; Certifications
+
+| Certificate | Issuer |
+|:---|:---|
+| CS50 Python | Harvard University |
+| Cybersecurity Professional | Google · Coursera |
+| Generative AI | Google Cloud |
+| Data Analysis with Python | freeCodeCamp |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌙 &nbsp; `contact --transmit`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🪐%20Portfolio-portfoliodoyel.netlify.app-a78bfa?style=for-the-badge&labelColor=0d0630)](https://portfoliodoyel.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-doyel--mishra-818cf8?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0630)](https://www.linkedin.com/in/doyel-mishra-80932128b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-DoyelMishra15-c084fc?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0630)](https://github.com/DoyelMishra15)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-e879f9?style=for-the-badge&logo=gmail&logoColor=e879f9&labelColor=0d0630)](mailto:sujandoyel@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20cosmos%20is%20within%20us.%20We%20are%20made%20of%20star-stuff.&author=Carl%20Sagan" width="600"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"somewhere, something incredible is waiting to be built."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4c1d95,30:2d1b69,60:1a0a4a,85:0d0630,100:020010&height=120&section=footer&text=&fontSize=0&reversal=true" width="100%"/>
