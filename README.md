@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=780&lines=🌌+Exploring+the+universe+of+AI+%26+Machine+Learning...;🚀+Building+production-grade+intelligent+systems;🛸+ISRO+Internship+Selectee+%7C+SIH+2025+Finalist;🌙+Turning+raw+data+into+cosmic+intelligence;⭐+B.Tech+CSE+%40+CVR+Global+University+%7C+CGPA+9.49)](https://github.com/DoyelMishra15)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=780&lines=🌌+Exploring+the+universe+of+AI+%26+Machine+Learning...;🚀+Building+production-grade+intelligent+systems;🛸+ISRO+Internship+Selectee+%7C+SIH+2025+Finalist;🌙+Turning+raw+data+into+cosmic+intelligence;⭐+B.Tech+CSE+%40+C. V. Raman+Global+University+%7C+CGPA+9.49)](https://github.com/DoyelMishra15)
 
 <br/>
 
