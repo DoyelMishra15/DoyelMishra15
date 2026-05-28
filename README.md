@@ -28,7 +28,7 @@
   name        :  Doyel Mishra
   pronouns    :  she / her
   location    :  Bhubaneswar, Odisha, India 🇮🇳
-  education   :  B.Tech CSE  ·  CVR Global University  ·  CGPA 9.49
+  education   :  B.Tech CSE  ·  C. V. Raman Global University  ·  CGPA 9.49
   roles       :  AI Engineer  ·  ML Developer  ·  Open Source Contributor
 
   currently_exploring:
