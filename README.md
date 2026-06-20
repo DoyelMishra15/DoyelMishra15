@@ -1,170 +1,220 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020817,30:0a1628,55:0f2952,80:1e3a8a,100:1d4ed8&height=260&section=header&text=DOYEL%20MISHRA&fontSize=62&fontColor=e0f2fe&fontAlignY=48&desc=✦%20AI%20%2F%20ML%20Engineer%20%20•%20%20SIH%202025%20National%20Finalist%20%20•%20%20ISRO%20Selectee%20✦&descSize=15&descAlignY=68&descColor=93c5fd&animation=fadeIn&stroke=3b82f6&strokeWidth=1" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=780&lines=🌌+Exploring+the+universe+of+AI+%26+Machine+Learning...;🚀+Building+production-grade+intelligent+systems;🛸+ISRO+Internship+Selectee+%7C+SIH+2025+Finalist;🌙+Turning+raw+data+into+cosmic+intelligence;⭐+B.Tech+CSE+%7C+CGPA+9.49)](https://github.com/DoyelMishra15)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=DoyelMishra15&style=for-the-badge&color=1d4ed8&labelColor=020817&label=VISITORS&abbreviated=true)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/DoyelMishra15?style=for-the-badge&color=3b82f6&labelColor=020817&label=FOLLOWERS&logo=github&logoColor=60a5fa)
-&nbsp;
-![Status](https://img.shields.io/badge/OPEN%20TO%20WORK-020817?style=for-the-badge&logo=rocketdotchat&logoColor=60a5fa&color=020817&labelColor=1e3a8a)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:db2777,60:0891b2,100:065f46&height=220&section=header&text=DOYEL%20MISHRA&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Space%20Nerd&descSize=16&descAlignY=64&descColor=f0abfc&animation=twinkling" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0a1628&height=2&section=header" width="100%"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=820&lines=→+B.Tech+CSE+%40+CVR+Global+University+%7C+CGPA+9.49;→+ISRO+Selectee+%7C+Satish+Dhawan+Space+Centre;→+SIH+2025+National+Finalist;→+Building+AI+that+actually+does+something;→+200%2B+LeetCode+%7C+50+Days+Badge+2026)](https://github.com/DoyelMishra15)
+
+</div>
 
 <br/>
 
-## 🌠 &nbsp; About Me
+---
 
-```yaml
-# ── doyel.config ───────────────────────────────────────────────
-
-  name        :  Doyel Mishra
-  pronouns    :  she / her
-  location    :  Bhubaneswar, Odisha, India 🇮🇳
-  education   :  B.Tech CSE  ·  C. V. Raman Global University  ·  CGPA 9.49
-  roles       :  AI Engineer  ·  ML Developer  ·  Open Source Contributor
-
-  currently_exploring:
-    ◈  LLM Fine-tuning & RAG Pipelines
-    ◈  Vision Transformers (ViT, CLIP)
-    ◈  System Design for ML at Scale
-    ◈  Daily DSA Practice
-
-  highlight   :  →  Selected for ISRO Internship @ Satish Dhawan Space Centre 🛸
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  $ whoami                                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   Doyel Mishra  ·  she/her  ·  Bhubaneswar, India               ║
+║                                                                  ║
+║   Currently exploring → LLM fine-tuning · RAG pipelines         ║
+║                          Vision Transformers · System Design     ║
+║                                                                  ║
+║   Open to       → Paid internships · Freelance · Collabs        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,100:1d4ed8&height=2&section=header" width="100%"/>
+---
 
 <br/>
 
-## 🛰️ &nbsp; Tech Stack
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 CareerLens AI
+> *Resume ↔ JD semantic matching engine*
+
+FastAPI · NLP · sentence-transformers
+
+- **~2s/request** · **50+ resumes/min**
+- Semantic scoring, skill gap analysis
+- Production-deployed with live metrics
+
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/DoyelMishra15/CareerLens-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 SwarajDesk CV Project
+> *AI civic grievance router using vision*
+
+ViT · Vision-LLM · TypeScript
+
+- Image-based complaint classification
+- Auto-routes to correct civic department
+- SIH 2025 National Finalist project
+
+[![Repo](https://img.shields.io/badge/View_Repo-db2777?style=flat-square&logo=github&logoColor=white)](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Sales Forecasting Dashboard
+> *Time-series forecasting with Prophet*
+
+Streamlit · Prophet · Scikit-learn
+
+- **R² > 0.85** · **MAPE < 8%**
+- Interactive visual dashboard
+- Plug-and-play CSV upload
+
+[![Repo](https://img.shields.io/badge/View_Repo-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/DoyelMishra15/Sales-Forecasting-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Employee Sentiment Analysis
+> *End-to-end workplace NLP pipeline*
+
+Python · spaCy · Jupyter
+
+- Full pipeline from raw text → insights
+- Sentiment classification + trend viz
+- Reusable modular design
+
+[![Repo](https://img.shields.io/badge/View_Repo-065f46?style=flat-square&logo=github&logoColor=white)](https://github.com/DoyelMishra15/Employee_Sentiment_Analysis_Project)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-**— Languages —**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-020817?style=for-the-badge&logo=python&logoColor=60a5fa&labelColor=0f2952)
-![Java](https://img.shields.io/badge/Java-020817?style=for-the-badge&logo=openjdk&logoColor=93c5fd&labelColor=0f2952)
-![C](https://img.shields.io/badge/C-020817?style=for-the-badge&logo=c&logoColor=38bdf8&labelColor=0f2952)
-![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=for-the-badge&logo=javascript&logoColor=fbbf24&labelColor=0f2952)
-![SQL](https://img.shields.io/badge/SQL-020817?style=for-the-badge&logo=postgresql&logoColor=67e8f9&labelColor=0f2952)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**— Frameworks & Tools —**
+**Frameworks & Infra**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-020817?style=for-the-badge&logo=fastapi&logoColor=34d399&labelColor=0f2952)
-![Flask](https://img.shields.io/badge/Flask-020817?style=for-the-badge&logo=flask&logoColor=93c5fd&labelColor=0f2952)
-![Streamlit](https://img.shields.io/badge/Streamlit-020817?style=for-the-badge&logo=streamlit&logoColor=f87171&labelColor=0f2952)
-![Git](https://img.shields.io/badge/Git-020817?style=for-the-badge&logo=git&logoColor=fb923c&labelColor=0f2952)
-![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=for-the-badge&logo=jupyter&logoColor=f59e0b&labelColor=0f2952)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**— AI · ML · Data Science —**
+**AI / ML / Data**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-020817?style=for-the-badge&logo=scikitlearn&logoColor=f97316&labelColor=0f2952)
-![spaCy](https://img.shields.io/badge/spaCy-020817?style=for-the-badge&logo=spacy&logoColor=22d3ee&labelColor=0f2952)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-020817?style=for-the-badge&logo=huggingface&logoColor=fbbf24&labelColor=0f2952)
-![OpenCV](https://img.shields.io/badge/OpenCV-020817?style=for-the-badge&logo=opencv&logoColor=4ade80&labelColor=0f2952)
-![Pandas](https://img.shields.io/badge/Pandas-020817?style=for-the-badge&logo=pandas&logoColor=818cf8&labelColor=0f2952)
-![NumPy](https://img.shields.io/badge/NumPy-020817?style=for-the-badge&logo=numpy&logoColor=60a5fa&labelColor=0f2952)
-![Prophet](https://img.shields.io/badge/Prophet-020817?style=for-the-badge&logo=meta&logoColor=3b82f6&labelColor=0f2952)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0078D4?style=flat-square&logo=meta&logoColor=white)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0a1628&height=2&section=header" width="100%"/>
+---
 
-<br/>
-
-## 🔭 &nbsp; Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-| ✦ | Project | Stack | What it does |
-|:---:|:---|:---|:---|
-| 🌌 | [**CareerLens-AI**](https://github.com/DoyelMishra15/CareerLens-AI) | FastAPI · NLP · sentence-transformers | Resume ↔ JD matcher — **~2s/req · 50+ resumes/min** |
-| 🪐 | [**Sales Forecasting Dashboard**](https://github.com/DoyelMishra15/Sales-Forecasting-Dashboard) | Streamlit · Prophet · Scikit-learn | Time-series forecasting · **R² > 0.85 · MAPE < 8%** |
-| 🛸 | [**SwarajDesk CV Project**](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_) | ViT · Vision-LLM · TypeScript | Image-based civic complaint auto-routing |
-| 🌠 | [**Employee Sentiment Analysis**](https://github.com/DoyelMishra15/Employee_Sentiment_Analysis_Project) | Python · NLP · Jupyter | End-to-end workplace sentiment pipeline |
-| 🌙 | [**Event Management System**](https://github.com/DoyelMishra15/EventManagementSystem) | Java · OOP | Full lifecycle event management system |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,100:1d4ed8&height=2&section=header" width="100%"/>
-
-<br/>
-
-## 📡 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=blue-green&bg_color=020817&border_color=1d4ed8&icon_color=60a5fa&title_color=93c5fd&text_color=bfdbfe&hide_border=false&rank_icon=percentile&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&rank_icon=percentile"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=blue-green&bg_color=020817&border_color=1d4ed8&title_color=93c5fd&text_color=bfdbfe&hide_border=false"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br/><br/>
 
-[![Streak](https://streak-stats.demolab.com?user=DoyelMishra15&theme=blue-green&background=020817&border=1d4ed8&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=1d4ed8&dates=475569&sideNums=bfdbfe&currStreakNum=e0f2fe)](https://github.com/DoyelMishra15)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DoyelMishra15&theme=midnight-purple&hide_border=true)](https://github.com/DoyelMishra15)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoyelMishra15&bg_color=020817&color=60a5fa&line=1d4ed8&point=93c5fd&area=true&area_color=0f2952&hide_border=false&custom_title=✦%20Constellation%20of%20Commits%20✦)](https://github.com/DoyelMishra15)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoyelMishra15&bg_color=0d1117&color=a855f7&line=db2777&point=f0abfc&area=true&hide_border=true&custom_title=Contribution+Graph)](https://github.com/DoyelMishra15)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0a1628&height=2&section=header" width="100%"/>
+---
 
-<br/>
-
-## 🏆 &nbsp; Achievements & Certifications
+## 🏅 Achievements
 
 <div align="center">
 
-| 🚀 &nbsp; Milestones | 🎓 &nbsp; Certifications |
+| Achievement | Details |
 |:---|:---|
-| ✦ **ISRO Internship Selectee** — Satish Dhawan Space Centre | ✦ CS50 Python — *Harvard University* |
-| ✦ **SIH 2025 National Finalist** — AI Civic Grievance System | ✦ Cybersecurity Professional — *Google · Coursera* |
-| ✦ **AI / Prompt Eng. Intern** — Mirai School of Technology | ✦ Generative AI — *Google Cloud Skills Boost* |
-| ✦ **GSSoC & Hacktoberfest** — Active Open Source Contributor | ✦ Data Analysis with Python — *freeCodeCamp* |
+| 🛸 **ISRO Internship Selectee** | Satish Dhawan Space Centre |
+| 🏆 **SIH 2025 National Finalist** | AI Civic Grievance System — SwarajDesk |
+| 💼 **AI / Prompt Eng. Intern** | Mirai School of Technology |
+| 🌐 **GSSoC & Hacktoberfest** | Active open source contributor |
+| 🧩 **LeetCode 200+** | 50 Days Badge 2026 · DP · Binary Search |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,100:1d4ed8&height=2&section=header" width="100%"/>
+---
 
-<br/>
-
-## 🌙 &nbsp; Let's Connect
+## 🎓 Certifications
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🪐%20%20Portfolio-portfoliodoyel.netlify.app-60a5fa?style=for-the-badge&labelColor=020817)](https://portfoliodoyel.netlify.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-doyel--mishra-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020817)](https://www.linkedin.com/in/doyel-mishra-80932128b)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-DoyelMishra15-93c5fd?style=for-the-badge&logo=github&logoColor=93c5fd&labelColor=020817)](https://github.com/DoyelMishra15)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-sujandoyel%40gmail.com-67e8f9?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=020817)](mailto:sujandoyel@gmail.com)
-
-<br/>
-
-> *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
+![CS50 Python](https://img.shields.io/badge/CS50_Python-Harvard_University-A51C30?style=for-the-badge&logo=edx&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Professional-Google_·_Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-Google_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis_with_Python-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1d4ed8,30:0f2952,60:0a1628,100:020817&height=140&section=footer&reversal=true&text=&fontSize=0" width="100%"/>
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliodoyel.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliodoyel.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-doyel--mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doyel-mishra-80932128b)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FXyzwjysre/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-sujandoyel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujandoyel@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,30:0891b2,60:db2777,100:7c3aed&height=130&section=footer" width="100%"/>
+
+</div>
