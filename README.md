@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020f0f,30:041f1f,60:0a3d3d,90:0f5c5c,100:2dd4bf&height=260&section=header&text=Doyel%20Mishra&fontSize=62&fontColor=f0fdfa&fontAlignY=44&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=14&descAlignY=64&descColor=5eead4&animation=fadeIn" width="100%"/>
-
+ 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=ISRO+Internship+Selectee+%C2%B7+SIH+2025+National+Finalist;CGPA+9.49+%C2%B7+Graduating+2027;200%2B+LeetCode+%C2%B7+50+Days+Badge+2026;Incoming+%40+Infosys+Springboard+%C2%B7+Jul+2026)](https://github.com/DoyelMishra15)
