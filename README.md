@@ -36,27 +36,9 @@ Focused on **LLM fine-tuning**, **RAG pipelines**, and **Vision Transformers** �
 
 <br/>
 
-**[SwarajDesk](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_)** &ensp;·&ensp; Hybrid ViT · Vision-LLM · TypeScript
-
-Civic complaint router that reads uploaded images and auto-routes them to the correct government department for smart governance. **SIH 2025 National Finalist.**
-
----
-
-**[OrbitOps India](https://github.com/DoyelMishra15/orbitops-india)** &ensp;·&ensp; Python
-
-Satellite operations planning platform.
-
----
-
 **[CareerLens AI](https://github.com/DoyelMishra15/CareerLens-AI)** &ensp;·&ensp; FastAPI · NLP · sentence-transformers
 
 Resume ↔ JD semantic matcher with async backend and modular architecture — `~2s/request` · `50+ resumes/min` throughput, deployed with live metrics.
-
----
-
-**[AI Palmistry & Tarot Intelligence Platform](https://github.com/DoyelMishra15/ai-palmistry-tarot-intelligence-platform)** &ensp;·&ensp; Computer Vision · ML · LLMs
-
-Spiritual intelligence platform combining computer vision, machine learning, and large language models to analyze palm images and tarot readings for personalized insights.
 
 ---
 
@@ -92,7 +74,7 @@ Data structures & algorithms practice — companion to a 200+ LeetCode streak.
 
 <br/>
 
-**Languages** &emsp; Python · Java · JavaScript · TypeScript · C · SQL
+**Languages** &emsp; Python · Java · JavaScript · C · SQL
 
 **Frameworks** &emsp; FastAPI · Flask · Streamlit · Spring Boot
 
