@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020f0f,30:041f1f,60:0a3d3d,90:0f5c5c,100:2dd4bf&height=260&section=header&text=Doyel%20Mishra&fontSize=62&fontColor=f0fdfa&fontAlignY=44&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=14&descAlignY=64&descColor=5eead4&animation=fadeIn" width="100%"/>
- 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=ISRO+Internship+Selectee+%C2%B7+SIH+2025+National+Finalist;CGPA+9.49+%C2%B7+Graduating+2027;200%2B+LeetCode+%C2%B7+50+Days+Badge+2026;Incoming+%40+Infosys+Springboard+%C2%B7+Jul+2026)](https://github.com/DoyelMishra15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:1a0b3d,50:4c1d95,75:7c3aed,100:c084fc&height=260&section=header&text=Doyel%20Mishra&fontSize=62&fontColor=faf5ff&fontAlignY=44&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20she%2Fher&descSize=15&descAlignY=64&descColor=d8b4fe&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=DoyelMishra15&style=flat-square&color=0f5c5c&labelColor=020f0f&label=views)&ensp;![](https://img.shields.io/github/followers/DoyelMishra15?style=flat-square&color=0f5c5c&labelColor=020f0f&logo=github&logoColor=2dd4bf&label=followers)&ensp;![](https://img.shields.io/badge/open%20to%20work-0f5c5c?style=flat-square&labelColor=020f0f&logoColor=2dd4bf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=ISRO+Internship+Selectee+%C2%B7+SIH+2025+National+Finalist;CGPA+9.49+%C2%B7+Graduating+2027;200%2B+LeetCode+%C2%B7+50+Days+Badge+2026;Incoming+%40+Infosys+Springboard+%C2%B7+Jul+2026)](https://github.com/DoyelMishra15)
 
 <br/>
 
-[![](https://img.shields.io/badge/Portfolio-020f0f?style=flat-square&logo=firefox&logoColor=2dd4bf&label=)](https://portfoliodoyel.netlify.app/)&ensp;[![](https://img.shields.io/badge/LinkedIn-020f0f?style=flat-square&logo=linkedin&logoColor=2dd4bf&label=)](https://www.linkedin.com/in/doyel-mishra-80932128b)&ensp;[![](https://img.shields.io/badge/LeetCode-020f0f?style=flat-square&logo=leetcode&logoColor=2dd4bf&label=)](https://leetcode.com/u/FXyzwjysre/)&ensp;[![](https://img.shields.io/badge/Email-020f0f?style=flat-square&logo=gmail&logoColor=2dd4bf&label=)](mailto:sujandoyel@gmail.com)
+![](https://komarev.com/ghpvc/?username=DoyelMishra15&style=flat-square&color=4c1d95&labelColor=0a0014&label=views)&ensp;![](https://img.shields.io/github/followers/DoyelMishra15?style=flat-square&color=4c1d95&labelColor=0a0014&logo=github&logoColor=c084fc&label=followers)&ensp;![](https://img.shields.io/badge/open%20to%20work-4c1d95?style=flat-square&labelColor=0a0014&logoColor=c084fc)&ensp;![](https://img.shields.io/badge/India%20%C2%B7%20UTC%2B5%3A30-4c1d95?style=flat-square&labelColor=0a0014&logoColor=c084fc)
+
+<br/>
+
+[![](https://img.shields.io/badge/Portfolio-0a0014?style=flat-square&logo=firefox&logoColor=c084fc&label=)](https://portfoliodoyel.netlify.app/)&ensp;[![](https://img.shields.io/badge/LinkedIn-0a0014?style=flat-square&logo=linkedin&logoColor=c084fc&label=)](https://www.linkedin.com/in/doyel-mishra-80932128b)&ensp;[![](https://img.shields.io/badge/LeetCode-0a0014?style=flat-square&logo=leetcode&logoColor=c084fc&label=)](https://leetcode.com/u/FXyzwjysre/)&ensp;[![](https://img.shields.io/badge/Email-0a0014?style=flat-square&logo=gmail&logoColor=c084fc&label=)](mailto:sujandoyel@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@ Focused on **LLM fine-tuning**, **RAG pipelines**, and **Vision Transformers** �
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
@@ -36,19 +36,31 @@ Focused on **LLM fine-tuning**, **RAG pipelines**, and **Vision Transformers** �
 
 <br/>
 
+**[SwarajDesk](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_)** &ensp;·&ensp; Hybrid ViT · Vision-LLM · TypeScript
+
+Civic complaint router that reads uploaded images and auto-routes them to the correct government department for smart governance. **SIH 2025 National Finalist.**
+
+---
+
+**[OrbitOps India](https://github.com/DoyelMishra15/orbitops-india)** &ensp;·&ensp; Python
+
+Satellite operations planning platform.
+
+---
+
 **[CareerLens AI](https://github.com/DoyelMishra15/CareerLens-AI)** &ensp;·&ensp; FastAPI · NLP · sentence-transformers
 
 Resume ↔ JD semantic matcher with async backend and modular architecture — `~2s/request` · `50+ resumes/min` throughput, deployed with live metrics.
 
 ---
 
-**[SwarajDesk](https://github.com/DoyelMishra15/SwarajDesk_CV_Project_)** &ensp;·&ensp; ViT · Vision-LLM · TypeScript
+**[AI Palmistry & Tarot Intelligence Platform](https://github.com/DoyelMishra15/ai-palmistry-tarot-intelligence-platform)** &ensp;·&ensp; Computer Vision · ML · LLMs
 
-Civic complaint router that reads uploaded images and auto-routes to the correct government department. **SIH 2025 National Finalist.**
+Spiritual intelligence platform combining computer vision, machine learning, and large language models to analyze palm images and tarot readings for personalized insights.
 
 ---
 
-**[Sales Intelligence Dashboard](https://sales-forecasting-dashboard-doyel.streamlit.app)** &ensp;·&ensp; Streamlit · Prophet · Scikit-learn
+**[Sales Forecasting Dashboard](https://sales-forecasting-dashboard-doyel.streamlit.app)** &ensp;·&ensp; Streamlit · Prophet · Scikit-learn
 
 Time-series forecasting with configurable 30–365 day horizons, KPI tracking, and anomaly alerts — `R² > 0.85` · `MAPE < 8%`.
 
@@ -58,9 +70,21 @@ Time-series forecasting with configurable 30–365 day horizons, KPI tracking, a
 
 End-to-end NLP pipeline from raw workplace text to actionable trend insights. Modular, reusable design.
 
+---
+
+**[Portfolio](https://github.com/DoyelMishra15/Portfolio)** &ensp;·&ensp; HTML
+
+Personal portfolio site, live at [portfoliodoyel.netlify.app](https://portfoliodoyel.netlify.app/).
+
+---
+
+**[DSA](https://github.com/DoyelMishra15/DSA)** &ensp;·&ensp; Python
+
+Data structures & algorithms practice — companion to a 200+ LeetCode streak.
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
@@ -68,7 +92,7 @@ End-to-end NLP pipeline from raw workplace text to actionable trend insights. Mo
 
 <br/>
 
-**Languages** &emsp; Python · Java · JavaScript · C · SQL
+**Languages** &emsp; Python · Java · JavaScript · TypeScript · C · SQL
 
 **Frameworks** &emsp; FastAPI · Flask · Streamlit · Spring Boot
 
@@ -78,7 +102,7 @@ End-to-end NLP pipeline from raw workplace text to actionable trend insights. Mo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
@@ -92,13 +116,15 @@ End-to-end NLP pipeline from raw workplace text to actionable trend insights. Mo
 
 **AI / Prompt Eng. Intern** &emsp; Mirai School of Technology
 
+**Incoming Intern** &emsp; Infosys Springboard · Jul 2026
+
 **Competitive Programming** &emsp; 200+ LeetCode · 50 Days Badge 2026
 
 **Open Source** &emsp; GSSoC · Hacktoberfest Contributor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
@@ -116,22 +142,22 @@ End-to-end NLP pipeline from raw workplace text to actionable trend insights. Mo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020f0f,50:2dd4bf,100:020f0f&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,50:7c3aed,100:0a0014&height=1" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&bg_color=020f0f&border_color=0f5c5c&icon_color=2dd4bf&title_color=5eead4&text_color=0f5c5c&hide_border=false&rank_icon=percentile&include_all_commits=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&bg_color=0a0014&border_color=4c1d95&icon_color=c084fc&title_color=d8b4fe&text_color=a78bfa&hide_border=false&rank_icon=percentile&include_all_commits=true"/>
 &ensp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&bg_color=020f0f&border_color=0f5c5c&title_color=5eead4&text_color=0f5c5c&hide_border=false"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&bg_color=0a0014&border_color=4c1d95&title_color=d8b4fe&text_color=a78bfa&hide_border=false"/>
 
 <br/><br/>
 
-[![Streak](https://streak-stats.demolab.com?user=DoyelMishra15&background=020f0f&border=0f5c5c&ring=2dd4bf&fire=5eead4&currStreakLabel=5eead4&sideLabels=0f5c5c&dates=0f5c5c&sideNums=5eead4&currStreakNum=2dd4bf&hide_border=false)](https://github.com/DoyelMishra15)
+[![Streak](https://streak-stats.demolab.com?user=DoyelMishra15&background=0a0014&border=4c1d95&ring=c084fc&fire=d8b4fe&currStreakLabel=d8b4fe&sideLabels=a78bfa&dates=a78bfa&sideNums=d8b4fe&currStreakNum=c084fc&hide_border=false)](https://github.com/DoyelMishra15)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,40:0f5c5c,70:041f1f,100:020f0f&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,30:7c3aed,65:1a0b3d,100:0a0014&height=130&section=footer" width="100%"/>
