@@ -1,107 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:1a0b3d,50:4c1d95,75:7c3aed,100:c084fc&height=220&section=header&text=Doyel%20Mishra&fontSize=56&fontColor=faf5ff&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20she%2Fher&descSize=15&descAlignY=62&descColor=d8b4fe&animation=fadeIn" width="100%"/>
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=ISRO+Internship+Selectee+%C2%B7+SIH+2025+National+Finalist;CGPA+9.49+%C2%B7+Graduating+2027;Building+LLM%2C+RAG%2C+and+Vision+systems+in+production)](https://github.com/DoyelMishra15)
+# DOYEL MISHRA
 
-&nbsp;
+**AI/ML Engineer · Software Engineer**
 
-<a href="https://portfoliodoyel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-13001f?style=for-the-badge&logoColor=c084fc" height="28"/></a>&nbsp;<a href="https://www.linkedin.com/in/doyel-mishra-80932128b"><img src="https://img.shields.io/badge/LinkedIn-13001f?style=for-the-badge&logo=linkedin&logoColor=c084fc" height="28"/></a>&nbsp;<a href="https://leetcode.com/u/FXyzwjysre/"><img src="https://img.shields.io/badge/LeetCode-13001f?style=for-the-badge&logo=leetcode&logoColor=c084fc" height="28"/></a>&nbsp;<a href="mailto:sujandoyel@gmail.com"><img src="https://img.shields.io/badge/Email-13001f?style=for-the-badge&logo=gmail&logoColor=c084fc" height="28"/></a>
+`GenAI` `NLP` `RAG` `On-Device AI` `Backend`
+
+<sub>[Portfolio](https://portfoliodoyel.netlify.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/doyel-mishra-80932128b) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/FXyzwjysre/) &nbsp;·&nbsp; [Email](mailto:sujandoyel@gmail.com)</sub>
+
+<br/>
 
 </div>
 
-<br/>
-
-## About
-
-B.Tech Computer Science @ **C.V. Raman Global University** &nbsp;·&nbsp; CGPA **9.49** &nbsp;·&nbsp; Class of **2027**
-
-Backend-focused Python developer (FastAPI · PostgreSQL · Redis · Docker) working on **LLM fine-tuning**, **RAG pipelines**, and **Vision Transformers** — shipping systems that hold up in production, not just notebooks.
+B.Tech CSE @ C.V. Raman Global University · 9.49 CGPA · 2027
+Building AI/ML systems across GenAI, NLP, RAG, and on-device inference — with a habit of shipping full-stack, not just modeling in a notebook.
 
 <br/>
 
-## Featured Projects
+### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[LifeLine](https://github.com/DoyelMishra15/Lifeline)** — *On-device AI · Document Intelligence · AWS · React*
+Turns scattered personal documents into a prioritized source of truth, with an offline-first Codespaces workflow (Bedrock + Cognito in production, a deterministic local reasoning engine otherwise) and a 108-test backend suite. Built for the WeMakeDevs × AWS First Commit hackathon.
 
-**[CareerLens AI](https://github.com/DoyelMishra15/CareerLens-AI)**
-<br/>FastAPI · NLP · sentence-transformers
+**[OrbitOps India](https://github.com/DoyelMishra15/orbitops-india)** — *FastAPI · React · Skyfield/SGP4 · Scheduling*
+Satellite pass prediction and conflict-free ground-station scheduling for university CubeSat teams, via a provably-optimal weighted interval scheduler. Live Celestrak data or an offline fixture; 44 backend tests passing.
 
-Resume ↔ JD semantic matcher with an async backend and modular pipeline.
+**[Reflow](https://github.com/DoyelMishra15/reflow-revenue-recovery)** — *FastAPI · scikit-learn · Decision Systems*
+A gated ML pipeline for failed-payment recovery — hard safety gates decide what's safe to retry, a gradient-boosted classifier only scores probability, every decision is audited. Built for the Razorpay AI Buildathon. [Live demo](https://reflow-revenue-recovery.onrender.com/)
 
-`~2s / request` &nbsp;·&nbsp; `50+ resumes / min`
-
-</td>
-<td width="50%" valign="top">
-
-**[Sales Forecasting Dashboard](https://sales-forecasting-dashboard-doyel.streamlit.app)**
-<br/>Streamlit · Prophet · scikit-learn
-
-Time-series forecasting with configurable 30–365 day horizons and anomaly alerts.
-
-`R² > 0.85` &nbsp;·&nbsp; `MAPE < 8%`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Employee Sentiment Analysis](https://github.com/DoyelMishra15/Employee_Sentiment_Analysis_Project)**
-<br/>Python · spaCy · Jupyter
-
-End-to-end NLP pipeline turning raw workplace text into actionable trend insights.
-
-</td>
-<td width="50%" valign="top">
-
-**[DSA](https://github.com/DoyelMishra15/DSA)**
-<br/>Python
-
-Structures & algorithms practice behind a 200+ LeetCode streak.
-
-</td>
-</tr>
-</table>
+**[CareerLens AI](https://github.com/DoyelMishra15/CareerLens-AI)** — *FastAPI · sentence-transformers · spaCy*
+Resume ↔ JD semantic matcher with skill-gap analysis and AI bullet rewriting on an async backend. Warm requests under 2s.
 
 <br/>
 
-## Stack
+### Stack
 
-| | |
-|---|---|
-| **Languages** | Python · Java · JavaScript · C · SQL |
-| **Frameworks** | FastAPI · Flask · Streamlit · Spring Boot |
-| **AI / ML** | HuggingFace · scikit-learn · spaCy · sentence-transformers · OpenCV · Prophet |
-| **Tools** | Git · Docker · Jupyter · GitHub Codespaces |
+```
+Python · FastAPI · PyTorch · Transformers
+RAG · NLP · scikit-learn · spaCy
+PostgreSQL · SQLite · Docker · AWS
+React · TypeScript · Git
+```
 
 <br/>
 
-## Highlights
+### Proof
 
-🛰️ **ISRO Internship Selectee** — Satish Dhawan Space Centre
-🏆 **SIH 2025 National Finalist** — SwarajDesk, AI civic grievance system
-🎓 **AI / Prompt Engineering Intern** — Mirai School of Technology
-📌 **Incoming Intern** — Infosys Springboard, Jul 2026
-💻 **200+ LeetCode** solved &nbsp;·&nbsp; 50 Days Badge 2026
-🌱 **Open Source** — GSSoC, Hacktoberfest contributor
-
-<sub>Certifications: Harvard CS50 Python · Google Cybersecurity Professional · Google Cloud Generative AI · freeCodeCamp Data Analysis with Python</sub>
+`9.49 CGPA` `2027` `200+ LeetCode` `ISRO Internship Selectee` `SIH 2025 National Finalist`
 
 <br/>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&bg_color=0a0014&border_color=4c1d95&icon_color=c084fc&title_color=d8b4fe&text_color=a78bfa&hide_border=false&rank_icon=percentile&include_all_commits=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyelMishra15&layout=compact&bg_color=0a0014&border_color=4c1d95&title_color=d8b4fe&text_color=a78bfa&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DoyelMishra15&show_icons=true&bg_color=00000000&border_color=27272a&icon_color=a78bfa&title_color=e4e4e7&text_color=a1a1aa&hide_border=false&rank_icon=percentile&include_all_commits=true" height="140"/>
 
-<br/>
-
-[![Streak](https://streak-stats.demolab.com?user=DoyelMishra15&background=0a0014&border=4c1d95&ring=c084fc&fire=d8b4fe&currStreakLabel=d8b4fe&sideLabels=a78bfa&dates=a78bfa&sideNums=d8b4fe&currStreakNum=c084fc&hide_border=false)](https://github.com/DoyelMishra15)
+[![Streak](https://streak-stats.demolab.com?user=DoyelMishra15&background=00000000&border=27272a&ring=a78bfa&fire=a78bfa&currStreakLabel=e4e4e7&sideLabels=a1a1aa&dates=a1a1aa&sideNums=e4e4e7&currStreakNum=e4e4e7&hide_border=false)](https://github.com/DoyelMishra15)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,30:7c3aed,65:1a0b3d,100:0a0014&height=110&section=footer" width="100%"/>
