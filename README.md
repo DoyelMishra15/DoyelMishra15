@@ -10,7 +10,7 @@
 ![GENAI](https://img.shields.io/badge/GENAI-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7)
 ![NLP](https://img.shields.io/badge/NLP-0f1420?style=flat-square&labelColor=0f1420&color=00b4d8)
 ![RAG](https://img.shields.io/badge/RAG-0f1420?style=flat-square&labelColor=0f1420&color=6d5bd0)
-![ON--DEVICE AI](https://img.shields.io/badge/ON--DEVICE%20AI-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7)
+![MACHINE LEARNING](https://img.shields.io/badge/MACHINE%20LEARNING-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7)
 ![BACKEND](https://img.shields.io/badge/BACKEND-0f1420?style=flat-square&labelColor=0f1420&color=00b4d8)
 
 <br/>
@@ -24,7 +24,7 @@
 <br/>
 
 B.Tech CSE @ C.V. Raman Global University · 9.49 CGPA · 2027
-Building AI/ML systems across GenAI, NLP, RAG, and on-device inference — with a habit of shipping full-stack, not just modeling in a notebook.
+Building AI/ML systems across GenAI, NLP, RAG, and machine learning — with a habit of shipping full-stack, not just modeling in a notebook.
 
 <br/>
 
@@ -37,9 +37,9 @@ Building AI/ML systems across GenAI, NLP, RAG, and on-device inference — with 
 
 ### [LifeLine](https://github.com/DoyelMishra15/Lifeline)
 
-Turns scattered personal documents into a prioritized source of truth. Runs offline-first in GitHub Codespaces on a deterministic local reasoning engine, built on the same AWS SAM template that can deploy to Bedrock, Cognito, Lambda, and Amplify. 108-test backend suite. Built for the WeMakeDevs × AWS First Commit hackathon.
+Turns scattered personal documents into a prioritized source of truth. Developed and tested locally in GitHub Codespaces using AWS SAM and LocalStack, with a deterministic local reasoning engine standing in for cloud inference. The same SAM template defines an intended production architecture on Lambda, Bedrock, Cognito, and Amplify — not yet deployed or tested against those live AWS services. 108-test backend suite. Built for the WeMakeDevs × AWS First Commit hackathon.
 
-![On-device AI](https://img.shields.io/badge/On--device%20AI-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7) ![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-0f1420?style=flat-square&labelColor=0f1420&color=00b4d8) ![AWS](https://img.shields.io/badge/AWS-0f1420?style=flat-square&labelColor=0f1420&color=6d5bd0) ![React](https://img.shields.io/badge/React-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7)
+![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7) ![Local-first](https://img.shields.io/badge/Local--first-0f1420?style=flat-square&labelColor=0f1420&color=00b4d8) ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-0f1420?style=flat-square&labelColor=0f1420&color=6d5bd0) ![React](https://img.shields.io/badge/React-0f1420?style=flat-square&labelColor=0f1420&color=00c9a7)
 
 </td></tr>
 </table>
