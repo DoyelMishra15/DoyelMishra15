@@ -168,7 +168,7 @@ I'm currently working through Scrimba's Full Stack Developer Path. I enjoy its i
 </tr>
 </table>
 
-> **Affiliate disclosure:** this is my affiliate link as a Scrimba affiliate (Scrimbassador, Starter level). Buyers who use it receive 20% off their subscription, and I may earn a 30% commission on qualifying payments during their first 12 months. It doesn't add to what you pay.
+> **Affiliate disclosure:** This is my Scrimba affiliate link. You get 20% off, and I may earn a commission if you subscribe.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
