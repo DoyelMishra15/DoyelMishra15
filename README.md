@@ -24,19 +24,9 @@ I learn by building one thing end to end, then going back to fix its weakest par
 
 <br/>
 
-## Currently working on
-
-| Status | Focus | Detail |
-|---|---|---|
-| In progress | **[Scrimba](https://scrimba.com?via=u45dd0e6) Full Stack Developer Path** | Interactive lessons, applied directly in my React projects |
-| In progress | **DSA in Python** | Regular problem solving; 200+ LeetCode problems so far |
-| In progress | **Machine Learning** | Moving from classical models toward transformers, embeddings and retrieval |
-| Ongoing | **Practical projects** | Backend-heavy products with tests, docs and stated limitations |
-| Ongoing | **Open source and community** | Learning from other developers' code and discussions |
-
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## Selected work
+## Projects
 
 <table>
 <tr><td>
